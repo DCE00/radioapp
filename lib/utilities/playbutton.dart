@@ -26,7 +26,7 @@ class PlayButton extends StatefulWidget {
 class _PlayButtonState extends State<PlayButton> with TickerProviderStateMixin {
   static const _kToggleDuration = Duration(milliseconds: 300);
   static const _kRotationDuration = Duration(seconds: 5);
-  static const _iconAnimDuration = Duration(milliseconds: 700);
+  static const _iconAnimDuration = Duration(milliseconds: 500);
 
   late bool isPlaying = false;
 

@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.radioapp">
    <application
+        android:usesCleartextTraffic="true"
         android:label="radioapp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
@@ -32,3 +33,4 @@
             android:value="2" />
     </application>
 </manifest>
+
