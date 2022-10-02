@@ -1,16 +1,27 @@
 # radioapp
 
-A new Flutter project.
+A new Flutter project that plays different radio streaming services.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Audio may delay at the first launch for some seconds, let it load. After 10 seconds it's synchronized
 
-A few resources to get you started if this is your first Flutter project:
+Project done in 8h with no prior knowledge of animated icons nor audioplayers on flutter. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](/radioapp/assets/AppPreview.PNG?raw=true "Preview")
+
+<img src="/radioapp/assets/AppPreview.PNG" alt="Employee data" title="Employee Data title">
+
+
+Dependencies: 
+audioplayers: ^1.1.0 - https://pub.dev/documentation/audioplayers/latest/ 
+
+Warning: Streaming services are used, some require a non-secure connection. 
+
+Http Conexions:
+'http://51.89.148.171/stream';
+
+Https Conexions:
+'https://timesradio.wireless.radio/stream';
+'https://stream.mediasector.es/radio/8000/activafm.mp3';
