@@ -8,16 +8,16 @@ Audio may delay at the first launch for some seconds, let it load. After 10 seco
 
 Project done in 8h with no prior knowledge of animated icons nor audioplayers on flutter. 
 
-##App Preview
+## App Preview
 
 <img src="https://github.com/DCE00/radioapp/blob/master/assets/AppPreview.PNG?raw=true" width=30% height=30%>
 
 
-##Dependencies
+## Dependencies
 
 audioplayers: ^1.1.0 - https://pub.dev/documentation/audioplayers/latest/ 
 
-##Warning
+## Warning
 
 Streaming services are used, some require a non-secure connection. 
 
