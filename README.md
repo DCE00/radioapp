@@ -11,7 +11,7 @@ Project done in 8h with no prior knowledge of animated icons nor audioplayers on
 
 ![Preview](/radioapp/assets/AppPreview.PNG?raw=true "Preview")
 
-<img src="/radioapp/assets/AppPreview.PNG" alt="Employee data" title="Employee Data title">
+![App Preview](https://github.com/DCE00/radioapp/blob/master/assets/AppPreview.PNG?raw=true)
 
 
 Dependencies: 
